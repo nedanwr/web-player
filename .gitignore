@@ -1,0 +1,8 @@
+# IDE Settongs
+.idea
+
+# Yarn
+node_modules
+
+# Next.js
+.next
